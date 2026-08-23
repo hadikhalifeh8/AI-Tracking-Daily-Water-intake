@@ -6,7 +6,7 @@ llama-index
 fastapi==0.109.2
 uvicorn==0.27.0.post1
 
-#Database
+# Database
 sqlalchemy==2.0.27
 sqlite-utils==3.38
 
@@ -16,14 +16,14 @@ python-dotenv==1.0.1
 # Logging and debugging
 loguru==0.7.2
 
-# Task Schduling (for reminder)
+# Task Scheduling
 apscheduler==3.10.4
 
 # CLI interaction
 typer==0.9.0
 
-# streamlit
+# Streamlit
 streamlit==1.31.1
 
 # Pillow
-Pillow==11.3.0
+Pillow==10.4.0
